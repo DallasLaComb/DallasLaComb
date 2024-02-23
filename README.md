@@ -27,6 +27,7 @@ Below are some of the technologies I've worked with, rated on a scale from 1 to 
 - **Java:**       🌟🌟
 - **C:**          🌟
 - **Assembly:**   🌟
+
 Feel free to reach out if you're interested in discussing my experiences with these technologies or how I've applied them in various projects.
 ## 📫 Get In Touch
 - **Email:** [dallas.lacomb@my.ccsu.edu](mailto:dallas.lacomb@my.ccsu.edu) | [dallaslacombdrive@gmail.com](mailto:dallaslacombdrive@gmail.com)
