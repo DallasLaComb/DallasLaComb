@@ -11,15 +11,15 @@ I'm currently contributing to a project named **Mon Ecole**, aiming to spread ac
 ## 🛠 Skills
 Below are some of the technologies I've worked with, rated on a scale from 1 to 5 (🌟) based on my proficiency:
 
-🌟🌟🌟🌟🌟:**HTML, CSS, and Bootstrap.**
+🌟🌟🌟🌟🌟 **HTML, CSS, and Bootstrap.**
 
-🌟🌟🌟🌟:**JavaScript, jQuery, Python, and Django.**
+🌟🌟🌟🌟 **JavaScript, jQuery, Python, and Django.**
 
-🌟🌟🌟:**PostgreSQL, Node.js, SQLite, Express.js, and Kotlin.**
+🌟🌟🌟 **PostgreSQL, Node.js, SQLite, Express.js, and Kotlin.**
 
-🌟🌟:**AWS, React.js, and Java.**
+🌟🌟 **AWS, React.js, and Java.**
 
-🌟:**C and MIPS Assembly**
+🌟 **C and MIPS Assembly**
 
 Feel free to reach out if you're interested in discussing my experiences with these technologies or how I've applied them in various projects.
 ## 📫 Get In Touch
