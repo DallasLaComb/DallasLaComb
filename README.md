@@ -8,7 +8,7 @@ I'm a Senior Computer Science Student at Central Connecticut State University wi
 
 ## 🌟 Projects
 ### Mon Ecole
-I'm currently contributing to a project named **Mon Ecole**, aiming to democratize access to digital education records in African countries where resources like blackboard or powerschool are scarce. This project is built with a MERN stack (MongoDB, Express.js, React.js, Node.js) and reflects my commitment to using technology for social good.
+I'm currently contributing to a project named **Mon Ecole**, aiming to spread access to digital education records in African countries where resources like blackboard or powerschool are scarce. This project is built with a MERN stack (MongoDB, Express.js, React.js, Node.js) and reflects my commitment to using technology for social good.
 ### Ticket Master Django
 ### PrivacyPulse
 
