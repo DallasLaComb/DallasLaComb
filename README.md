@@ -10,7 +10,9 @@ I'm currently contributing to a project named **Mon Ecole**, aiming to spread ac
 ### PrivacyPulse
 ## 🛠 Skills
 Below are some of the technologies I've worked with, rated on a scale from 1 to 5 (🌟) based on my proficiency:
+
 **HTML:**🌟🌟🌟🌟🌟 **CSS:**🌟🌟🌟🌟🌟**Bootstrap:**🌟🌟🌟🌟🌟
+
 - **JavaScript:** 🌟🌟🌟🌟
 - **jQuery:**     🌟🌟🌟🌟
 - **Python:**     🌟🌟🌟🌟
