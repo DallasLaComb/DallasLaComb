@@ -7,8 +7,8 @@ I'm a Senior Computer Science Student at Central Connecticut State University wi
 - **Future Endeavors:** Seeking a tech internship for 2024 where I can contribute, learn, and grow.
 
 ## 🌟 Projects
-### Flag Bingo for CCSU Latin American, Latino, and Caribbean Center
-Developed an interactive Flag Bingo web application (accessible at sites.ccsu.edu/flagbingo/). Created with HTML, CSS, JavaScript, Bootstrap, jQuery, and cookies, this platform engages users in learning country names and flags. 
+### Flag Bingo for CCSU Latin American, Latino, and Caribbean Center[Dallas LaComb](https://www.linkedin.com/in/dallas-lacomb-10710021b/)
+Developed an interactive Flag Bingo web application (accessible at [sites.ccsu.edu/flagbingo/](https://sites.ccsu.edu/flagbingo/). Created with HTML, CSS, JavaScript, Bootstrap, jQuery, and cookies, this platform engages users in learning country names and flags. 
 ### Mon Ecole
 I'm currently contributing to a project named **Mon Ecole**, aiming to spread access to digital education records in African countries where resources like blackboard or powerschool are scarce. This project is being built with a MERN stack (MongoDB, Express.js, React.js, Node.js) and reflects my commitment to using technology for social good.
 ### Ticket Master Django
