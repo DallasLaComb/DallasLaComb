@@ -40,7 +40,7 @@ Feel free to reach out if you're interested in discussing my experiences with th
 
 ## 📫 Get In Touch
 - **Email:** [dallas.lacomb@my.ccsu.edu](mailto:dallas.lacomb@my.ccsu.edu) | [dallaslacombdrive@gmail.com](mailto:dallaslacombdrive@gmail.com)
-- **LinkedIn:** [[Dallas LaComb](https://www.linkedin.com/in/dallas-lacomb-10710021b/)](#) 
+- **LinkedIn:** [Dallas LaComb](https://www.linkedin.com/in/dallas-lacomb-10710021b/)
 - **Portfolio:** [Your Portfolio](#) *(If you have a portfolio, adding a link here would be beneficial)*
 
 Let's connect and make technology work for the betterment of society!
