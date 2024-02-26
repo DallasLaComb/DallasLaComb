@@ -7,7 +7,7 @@ Developed an interactive Flag Bingo web application (accessible at [sites.ccsu.e
 ### Mon-Ecole - Digital Education Records
 I'm currently contributing to a project named **Mon Ecole**, aiming to spread access to digital education records in African countries where resources like blackboard or powerschool are scarce. This project is being built with a MERN stack (MongoDB, Express.js, React.js, Node.js) and reflects my commitment to using technology for social good.
 ### Ticket Master - Ticket Browsing and Bookmarking
-Developed a ticket browsing and bookmarking website, accessible at [dallaslacomb.pythonanywhere.com](https://www.dallaslacomb.pythonanywhere.com)
+Developed a ticket browsing and bookmarking website, accessible at [https://dallaslacomb.pythonanywhere.com/](https://dallaslacomb.pythonanywhere.com/)
 which utilizes the Ticketmaster API to dynamically fetch and display current tickets available for events.
 This project was built using HTML, CSS, JavaScript, AJAX, Django, and SQLite for the database. Users can
 search for events, such as 'Music' in 'Hartford', and bookmark tickets of interest for later viewing on the
