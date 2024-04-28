@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Dallas LaComb
 
-I'm a Senior Computer Science Student at Central Connecticut State University with a passion for technology and innovation. I'm on the lookout for a 2024 tech internship that allows me to dive deeper into software development, data engineering, web development, mobile app development, artificial intelligence, or cyber security. I currently have had the most experience with web and mobile app developments with higher level programming languages, but I'm open to different opportunites and learning new things.
+I'm a Senior Computer Science Student at Central Connecticut State University with a passion for technology and innovation.
 ## 🌟 Projects
 ### Flag Bingo for CCSU Latin American, Latino, and Caribbean Center
 Developed an interactive Flag Bingo web application (accessible at [sites.ccsu.edu/flagbingo/](https://sites.ccsu.edu/flagbingo/). Created with HTML, CSS, JavaScript, Bootstrap, jQuery, and cookies, this platform engages users in learning country names and flags. 
