@@ -4,19 +4,14 @@ I'm a Senior Computer Science Student at Central Connecticut State University wi
 ## 🌟 Projects
 ### Flag Bingo for CCSU Latin American, Latino, and Caribbean Center
 Developed an interactive Flag Bingo web application (accessible at [sites.ccsu.edu/flagbingo/](https://sites.ccsu.edu/flagbingo/). Created with HTML, CSS, JavaScript, Bootstrap, jQuery, and cookies, this platform engages users in learning country names and flags. 
-### Mon-Ecole - Digital Education Records
-I'm currently contributing to a project named **Mon Ecole**, aiming to spread access to digital education records in African countries where resources like blackboard or powerschool are scarce. This project is being built with a MERN stack (MongoDB, Express.js, React.js, Node.js) and reflects my commitment to using technology for social good.
-### Ticket Master - Ticket Browsing and Bookmarking
+### Ticket Master - Django Web App - Web Development Final Project
 Developed a ticket browsing and bookmarking website, accessible at [dallaslacomb.pythonanywhere.com/](https://dallaslacomb.pythonanywhere.com/)
 which utilizes the Ticketmaster API to dynamically fetch and display current tickets available for events.
 This project was built using HTML, CSS, JavaScript, AJAX, Django, and SQLite for the database. Users can
 search for events, such as 'Music' in 'Hartford', and bookmark tickets of interest for later viewing on the
 bookmarks page.
-### PrivacyPulse - Encrypted Note System
-Developed an encrypted note application using HTML, CSS, JavaScript, AJAX, Node.js, Express, and a
-Firebase database. Implemented hashing for user passwords. The application generates a private key
-locally on the user's device upon registration. The app utilizasymmetric encryption to encrypt notes with
-the user's public key before transmission to the database, and private key for decryption.
+### Ticket Master - Kotlin / Android Studio, Mobile App
+
 ## 🛠 Skills
 Below are some of the technologies I've worked with, rated on a scale from 1 to 5 (🌟) based on my proficiency:
 
