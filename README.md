@@ -98,13 +98,6 @@
 | **[aws-account-factory](https://github.com/DallasLaComb/aws-account-factory)** | Infrastructure-as-code for standing up and governing AWS accounts consistently. | AWS · IaC |
 | **[Flag Bingo](https://github.com/DallasLaComb/Flag-Bingo-Project)** | Interactive flag-learning bingo game built for CCSU's Latin American, Latino, and Caribbean Center. | JavaScript · Bootstrap · jQuery |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DallasLaComb&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Dallas's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DallasLaComb&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
 ## Get In Touch
 
 Open to talking about AWS serverless architecture, Angular, or anything you're building.
